@@ -21,3 +21,8 @@ I am **A3bz**, a security engineer who is self-taught and passinate.
 <a href="https://github.com/zesiar0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zesiar0&layout=compact" />
 </a>
+
+<!--
+| <a href="https://github.com/zesiar0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zesiar0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="A3bz's github stats" /></a> | <a href="https://github.com/zesiar0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zesiar0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+-->
